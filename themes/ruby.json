@@ -86,7 +86,7 @@
 		},
 		{
 			"settings": {
-				"foreground": "#66d9ef"
+				"foreground": "#f0544c"
 			},
 			"name": "Keyword",
 			"scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, keyword.operator.expression.import.js, markup.underline.link"
@@ -107,7 +107,7 @@
 		},
 		{
 			"settings": {
-				"foreground": "#66d9ef"
+				"foreground": "#f0544c"
 			},
 			"name": "Struct",
 			"scope": "entity.name.type.struct"
