@@ -1,0 +1,40 @@
+{
+	"name": "vscode-theme-ruby",
+	"displayName": "Ruby Theme",
+	"description": "Visual Studio Code dark theme.",
+	"version": "1.1.1",
+	"publisher": "Alexanderius",
+	"license": "GPLv3",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#2d2d2d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/i4004/vscode-theme-ruby"
+	},
+	"bugs": {
+		"url": "https://github.com/i4004/vscode-theme-ruby/issues"
+	},
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"ruby",
+		"theme",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ruby",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ruby.json"
+			}
+		]
+	}
+}
