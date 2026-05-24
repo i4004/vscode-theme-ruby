@@ -5,7 +5,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/alexanderius.vscode-theme-ruby.png)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-ruby)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/alexanderius.vscode-theme-ruby.png)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-ruby)
 
-[Visual Studio Code](https://code.visualstudio.com) dark theme based on [Ruby Visual Studio Theme](https://studiostyl.es/schemes/ruby-1-1).
+[Visual Studio Code](https://code.visualstudio.com) dark theme.
 
 ## Changelog
 
