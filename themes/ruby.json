@@ -33,13 +33,13 @@
 		"tab.hoverBackground": "#686868",
 		"button.background": "#f0544c",
 		"button.foreground": "#FFFFFF",
-		"button.hoverBackground": "#f0544c",
+		"button.hoverBackground": "#ff5951",
 		"list.hoverBackground": "#cf4942",
 		"list.inactiveSelectionBackground": "#cf4942",
 		"list.activeSelectionBackground": "#f0544c",
 		"list.focusBackground": "#3a3c42",
 		"scrollbarSlider.background": "#686868",
-		"scrollbarSlider.activeBackground": "#f0544c",
+		"scrollbarSlider.activeBackground": "#ff5951",
 		"scrollbarSlider.hoverBackground": "#f0544c",
 		"statusBar.background": "#3a3c42",
 		"statusBar.debuggingBackground": "#ab4715",
@@ -142,7 +142,7 @@
 		},
 		{
 			"settings": {
-				"foreground": "#f0544c"
+				"foreground": "#a6e22e"
 			},
 			"name": "Operators",
 			"scope": "keyword.operator, punctuation.definition.markdown, punctuation.definition.string, punctuation.definition.list, punctuation.definition.heading"
