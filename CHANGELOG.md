@@ -1,3 +1,7 @@
+## v1.1.2
+
+- Added transparency to colors where required
+
 ## v1.1.1
 
 - Hover colors fix
